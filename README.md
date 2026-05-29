@@ -19,12 +19,10 @@ Password Strength Analyzer is a simple web application that checks the strength 
 ## Project Structure
 
 password-strength-analyzer
+
 │ ── index.html
-
 │ ── style.css
-
 │ ── script.js
-
 │ ── README.md
 
 
