@@ -32,3 +32,4 @@ password-strength-analyzer
 
 ## Author
 Adil Momin
+
