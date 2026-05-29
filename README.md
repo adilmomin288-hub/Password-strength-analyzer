@@ -24,11 +24,5 @@ password-strength-analyzer
 │── script.js
 │── README.md
 
-## How to Run
 
-1. Download the project
-2. Open folder in VS Code
-3. Run index.html in browser
 
-## Author
-Adil Momin
